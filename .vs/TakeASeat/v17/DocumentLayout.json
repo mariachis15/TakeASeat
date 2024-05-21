@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marri\\OneDrive\\Desktop\\C#\\TakeASeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9773016B-4F30-4D25-9503-0603D3CD49A4}|TakeASeat.csproj|c:\\users\\marri\\onedrive\\desktop\\c#\\takeaseat\\takeaseat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9773016B-4F30-4D25-9503-0603D3CD49A4}|TakeASeat.csproj|solutionrelative:takeaseat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9773016B-4F30-4D25-9503-0603D3CD49A4}|TakeASeat.csproj|c:\\users\\marri\\onedrive\\desktop\\c#\\takeaseat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9773016B-4F30-4D25-9503-0603D3CD49A4}|TakeASeat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TakeASeat",
+              "DocumentMoniker": "C:\\Users\\marri\\OneDrive\\Desktop\\C#\\TakeASeat\\TakeASeat.csproj",
+              "RelativeDocumentMoniker": "TakeASeat.csproj",
+              "ToolTip": "C:\\Users\\marri\\OneDrive\\Desktop\\C#\\TakeASeat\\TakeASeat.csproj",
+              "RelativeToolTip": "TakeASeat.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T17:47:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marri\\OneDrive\\Desktop\\C#\\TakeASeat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marri\\OneDrive\\Desktop\\C#\\TakeASeat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:52:21.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
